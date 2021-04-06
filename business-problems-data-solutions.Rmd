@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Semen Ploskov
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -10,17 +10,26 @@ output:
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0ttUoL2pyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1" ></iframe>
 
+This business case is about Coca-Cola company trying to come up with the way on how to satisfy customers in different regions based on the data they collected. 
 
 ## What was the business problem?
-
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Since Coca-Cola is one of the biggest beverages providers in the world, it's very important for them to be able to maintain their position and the use of data-based technologies plays an important role here. In this business case Coca-Cola was trying to provide its customers with tailored solutions based on the data that showed certain trends in their behavior. 
 
 ## How was it translated into a data mining problem?
+In order to anayze this case, we can use the steps of CRISP model, as then we will be able to understand the logic of the company in this situation. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+1) Business understanding - company was trying to find a way to boost its sells and on of the way to make it possible was to come up customer-oriented solutions based on the demand of the customers in different regions. 
+
+2) Data understanding - In order to be able to analyse this data, company started putting connected vending machines all over the world. Customer got a chance to create his own drinks by picking his favorite flavors. Over some time it became possible to draw some conclusions based on the differences in preferences of customers in different regions.
+
+3) Data Preparation - Company was collecting the data from these vending machines and started comparing the findings based on the region. 
+
+4) Modeling and Evaluation - After analyzing all the data, company was able to indicate certain trends in preferences of different customer groups. This research showed that customers in the UK prefer Sprite with a cherry taste, while in another region Diet Coke with a Mango flavor was popular. These findings provided company with space for boosting their sales in these regions by addressing the needs of the customers directly.
+
 
 ## What is the realized business value?
+As result, Coca Cola introduced new products to these markets and its sales went up, since got exactly what they wanted. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+This case is a good example of how important the date-driven decision making is and what benefits it can bring both to customers and the company. 
